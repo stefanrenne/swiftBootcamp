@@ -99,9 +99,9 @@ Status.Completed.isDone
  ## Structs
  Basically, structs can do exactly the same things as classes. They can host variables and functions, be subclassed, conform to protocols, etc.
  No clear answer can be given when to use functions and structs, as they have a different memory consumption model. Depending on your usage you should use either structs or classes.
- For more information, please see these WWDC videos:
- * [Protocol oriented programming]: https://developer.apple.com/videos/play/wwdc2015/408/
- * [Understanding Swift Performance]: https://developer.apple.com/videos/play/wwdc2016/416/
+ For more information, please see these WWDC videos: 
+ - https://developer.apple.com/videos/play/wwdc2015/408/
+ - https://developer.apple.com/videos/play/wwdc2016/416/
  */
 
 struct Person {

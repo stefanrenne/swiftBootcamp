@@ -1,5 +1,5 @@
 /*:
- ## 3. Protocols and extensions
+ ## 3. Protocols and Extensions
  [Previous](@previous)
  [Next](@next)
  

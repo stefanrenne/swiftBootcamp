@@ -4,5 +4,6 @@
         <page name='1. Variables and functions'/>
         <page name='2. Classes, Enums, Structs'/>
         <page name='3. Protocols and extensions'/>
+        <page name='4. Collections and Closures'/>
     </pages>
 </playground>
