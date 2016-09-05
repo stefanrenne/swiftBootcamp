@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		42A3F05D1D7D8D3C009C1D3E /* SwiftDojo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftDojo.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		42A3F0561D7D8D25009C1D3E = {
+			isa = PBXGroup;
+			children = (
+				42A3F05D1D7D8D3C009C1D3E /* SwiftDojo.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		42A3F0571D7D8D25009C1D3E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+			};
+			buildConfigurationList = 42A3F05A1D7D8D25009C1D3E /* Build configuration list for PBXProject "SwiftDojo" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 42A3F0561D7D8D25009C1D3E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		42A3F05B1D7D8D25009C1D3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		42A3F05C1D7D8D25009C1D3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42A3F05A1D7D8D25009C1D3E /* Build configuration list for PBXProject "SwiftDojo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42A3F05B1D7D8D25009C1D3E /* Debug */,
+				42A3F05C1D7D8D25009C1D3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42A3F0571D7D8D25009C1D3E /* Project object */;
+}

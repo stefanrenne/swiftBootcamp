@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='1. Variables and functions'/>
+        <page name='2. Classes, Enums, Structs'/>
+        <page name='3. Protocols and extensions'/>
+    </pages>
+</playground>
