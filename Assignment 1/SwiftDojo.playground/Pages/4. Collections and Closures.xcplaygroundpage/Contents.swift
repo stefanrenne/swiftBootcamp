@@ -84,5 +84,5 @@ objects.sort { (lhs, rhs) -> Bool in
  ---
  Define the model for a messaging application. There are multiple conversations possible. Each conversation has an array of members, and messages. Each message is linked to a recipient.
  
- Add code to order the conversations from newest to oldest, and messages from oldest to newest. Each conversation can be searched for a specific piece of text, and keeps track of the amount of messages a specific member has sent.
+ Add code to order a conversation's messages from oldest to newest. Each conversation can be searched for a specific piece of text, and keeps track of the amount of messages a specific member has sent.
  */
