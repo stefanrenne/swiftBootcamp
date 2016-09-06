@@ -16,11 +16,12 @@ class ChatViewController: BaseViewController, ChatManagerDelegate, InputBarDeleg
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        // TODO: Create ChatManager Instance
+        // TODO: Create ChatManager Instance, and assign to the 'manager' property
         
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let inputBarViewController = segue.destination as! InputBarViewController
         
         // TODO: Assign current view as delegate for InputBarViewController
         
@@ -31,6 +32,7 @@ class ChatViewController: BaseViewController, ChatManagerDelegate, InputBarDeleg
     func didReceiveMessage(_ message: String, from author: String) {
         
         // TODO: Inplement ChatManager's delegate call
+        // Append the recieved message to the chat view
         
     }
     

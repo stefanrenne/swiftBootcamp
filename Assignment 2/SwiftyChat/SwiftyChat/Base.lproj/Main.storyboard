@@ -126,7 +126,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="chatView" destination="vkI-VL-A4F" id="slg-l0-VQh"/>
+                        <outlet property="chatView" destination="vkI-VL-A4F" id="akl-KW-1kq"/>
                         <outlet property="containerView" destination="1MX-bh-Mpt" id="Gja-B4-aOQ"/>
                         <outlet property="textScrollView" destination="Ndh-yw-DhO" id="EBe-iN-AD4"/>
                     </connections>
