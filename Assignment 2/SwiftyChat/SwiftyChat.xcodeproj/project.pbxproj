@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		426AC5C41D816CCB002A584E /* ChatLib.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = A5F1BABD1D7EEADB009C3F2A /* ChatLib.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4298066F1D7DB6A9003A1547 /* UIScrollView+Scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298066B1D7DB6A9003A1547 /* UIScrollView+Scroll.swift */; };
 		429806701D7DB6A9003A1547 /* UITextField+Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298066C1D7DB6A9003A1547 /* UITextField+Message.swift */; };
 		429806721D7DB6A9003A1547 /* UIView+Contraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298066E1D7DB6A9003A1547 /* UIView+Contraints.swift */; };
@@ -29,6 +30,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				426AC5C41D816CCB002A584E /* ChatLib.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
