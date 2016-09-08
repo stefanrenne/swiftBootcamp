@@ -1,5 +1,5 @@
 /*:
- ## 4. Collections and Closures
+ ## 5. Collections and Closures
  [Previous](@previous)
  
  ---

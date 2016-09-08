@@ -13,7 +13,7 @@
 */
 import Cocoa
 
-let myNumber: Int = 13
+let 🚀: Int = 13
 var cost: Double = 5.23
 cost = 10.5 // 'cost' is a variable, so it can be changed
 let evening: Bool = true

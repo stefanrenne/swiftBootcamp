@@ -2,8 +2,9 @@
 <playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='1. Variables and functions'/>
-        <page name='2. Classes, Enums, Structs'/>
+        <page name='2. Classes, Enums and Structs'/>
         <page name='3. Protocols and extensions'/>
-        <page name='4. Collections and Closures'/>
+        <page name='4. Conditions and Optional Chaining '/>
+        <page name='5. Collections and Closures'/>
     </pages>
 </playground>
