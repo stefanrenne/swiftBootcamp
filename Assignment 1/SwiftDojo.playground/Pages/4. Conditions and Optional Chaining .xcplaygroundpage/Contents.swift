@@ -110,9 +110,9 @@ let textField = NSTextField()
 let customTextField = MyCustomTextField()
 
 if let myTextField = textField as? MyCustomTextField {
-    print("This won't be printed")
+    print("This 🐳 won't be printed")
 }
 
 if let myTextField = customTextField as? MyCustomTextField {
-    print("This will")
+    print("This 🐳 be printed")
 }
